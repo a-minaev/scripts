@@ -1,0 +1,25 @@
+
+ Total CPU usage
+CPU Usage: 0.8%
+
+ Total Memory usage
+Free Memory: 15931MB  Used Memory: 4545MB
+
+ Total Disk usage
+Available: 865G  Used: 16G
+
+ Top 5 CPU Processes
+    PID    PPID CMD                         %CPU
+   3290    2519 /snap/firefox/7766/usr/lib/  3.0
+  12314    3531 /snap/firefox/7766/usr/lib/  0.7
+   4359    3531 /snap/firefox/7766/usr/lib/  0.6
+ 535768    3531 /snap/firefox/7766/usr/lib/  0.6
+ 535545    3531 /snap/firefox/7766/usr/lib/  0.6
+
+ Top 5 Memory Processes
+    PID    PPID CMD                         %MEM
+   3290    2519 /snap/firefox/7766/usr/lib/  8.5
+   2519    2183 /usr/bin/gnome-shell         3.0
+  15104    3531 /snap/firefox/7766/usr/lib/  2.6
+   4359    3531 /snap/firefox/7766/usr/lib/  2.2
+  12424    3531 /snap/firefox/7766/usr/lib/  2.2
